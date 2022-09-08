@@ -1,6 +1,6 @@
 # 💫About Me :
 🔭 I’m currently working on Flutter.
-🌱 I’m currently learning more about BlockChain.
+🌱 I’m currently learning more about Cloud Computing.
 💬 Ask me about Flutter or any tech-related stuff.
 📫 How to reach me: Twitter - @Linux_031 
 😄 Pronouns: He/His
