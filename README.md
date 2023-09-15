@@ -2,8 +2,7 @@
 🔭 I’m currently working on Flutter.
 🌱 I’m currently learning more about Rust.
 💬 Ask me about Flutter or any tech-related stuff.
-📫 How to reach me: Twitter - @linux031 
-😄 Pronouns: He/His
+📫 How to reach me: Twitter - @linux031
 ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ## 🌐Socials
